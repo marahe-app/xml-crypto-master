@@ -5,14 +5,14 @@
 
 An xml digital signature library for node. Xml encryption is coming soon. Written in pure javascript!
 
-For more information visit [my blog](http://webservices20.blogspot.com/) or [my twitter](https://twitter.com/YaronNaveh).
+
 
 ## Install
 
 Install with [npm](http://github.com/isaacs/npm):
 
 ```shell
-npm install xml-crypto
+npm install xml-crypto-dte2
 ```
 
 A pre requisite it to have [openssl](http://www.openssl.org/) installed and its /bin to be on the system path. I used version 1.0.1c but it should work on older versions too.
